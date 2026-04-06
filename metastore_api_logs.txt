@@ -1,0 +1,306 @@
+2026-04-06 02:27:09,996 - INFO - Fetching dataset metadata from CMS API...
+2026-04-06 02:27:09,996 - INFO - --------STARTING PIPELINE PROCESS--------
+2026-04-06 02:27:09,996 - INFO - No previous run data found.
+2026-04-06 02:27:10,498 - INFO - Filtered datasets for theme 'Hospitals': 73 found.
+2026-04-06 02:27:10,498 - INFO - New dataset found: 48nr-hqxx, download needed.
+2026-04-06 02:27:10,498 - INFO - New dataset found: 4jcv-atw7, download needed.
+2026-04-06 02:27:10,498 - INFO - New dataset found: wue8-3vwe, download needed.
+2026-04-06 02:27:10,498 - INFO - New dataset found: tf3h-mrrs, download needed.
+2026-04-06 02:27:10,498 - INFO - New dataset found: axe7-s95e, download needed.
+2026-04-06 02:27:10,498 - INFO - New dataset found: x663-bwbj, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: tqkv-mgxq, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: muwa-iene, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: ynj2-r877, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: qqw3-t4ie, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: bs2r-24vh, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: y9us-9xdf, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: xrgf-x36b, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: 5gv4-jwyv, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: u625-zae7, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: vtqa-m4zn, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: dgck-syfz, download needed.
+2026-04-06 02:27:10,499 - INFO - New dataset found: 99ue-w85f, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: 84jm-wiui, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: 77hc-ibv8, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: yd3s-jyhd, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: k2ze-bqvw, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: yizn-abxn, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: s5pj-hua3, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: 6pfg-whmx, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: xubh-q36u, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: z8ax-x9j1, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: jfnd-nl7s, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: yq43-i98g, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: 5hk7-b79m, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: k653-4ka8, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: iy27-wz37, download needed.
+2026-04-06 02:27:10,500 - INFO - New dataset found: 9g7e-btyt, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: qatj-nmws, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: 9n3s-kdb3, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: pudb-wetr, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: su9h-3pvj, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: avtz-f2ge, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: dgmq-aat3, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: ypbt-wvdk, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: q9vs-r7wp, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: s5xg-sys6, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: dc76-gh7x, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: 4j6d-yzce, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: nrth-mfg3, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: rrqw-56er, download needed.
+2026-04-06 02:27:10,501 - INFO - New dataset found: 3n5g-6b7f, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: rs6n-9qwg, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: wkfw-kthe, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: di9i-zzrc, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: if5v-4x48, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: yv7e-xc69, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: isrn-hqyy, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: apyc-v239, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: 632h-zaca, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: cvcs-xecj, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: 4gkm-5ypv, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: 6qxe-iqz8, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: ptds-r8im, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: uyx4-5s7f, download needed.
+2026-04-06 02:27:10,502 - INFO - New dataset found: bzsr-4my4, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: nrdb-3fcy, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: mxtu-43qs, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: qoeg-w7ck, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: qigt-w5cx, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: f4ga-b9gx, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: hbf-map, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: 97xg-v3wv, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: d2k3-k3ac, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: 7peb-i4pi, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: zt3q-3e1z, download needed.
+2026-04-06 02:27:10,503 - INFO - New dataset found: zez1-ka2w, download needed.
+2026-04-06 02:27:10,504 - INFO - New dataset found: uk3n-au7a, download needed.
+2026-04-06 02:27:10,504 - INFO - Total new datasets to download: 73
+2026-04-06 02:27:10,504 - INFO - Downloading dataset: 48nr-hqxx - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility
+2026-04-06 02:27:10,505 - INFO - Downloading dataset: 4jcv-atw7 - Ambulatory Surgical Center Quality Measures - Facility
+2026-04-06 02:27:10,507 - INFO - Downloading dataset: wue8-3vwe - Ambulatory Surgical Center Quality Measures - National
+2026-04-06 02:27:10,508 - INFO - Downloading dataset: axe7-s95e - Ambulatory Surgical Center Quality Measures - State
+2026-04-06 02:27:10,507 - INFO - Downloading dataset: tf3h-mrrs - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National
+2026-04-06 02:27:10,509 - INFO - Downloading dataset: tqkv-mgxq - Comprehensive Care For Joint Replacement Model - Provider Data
+2026-04-06 02:27:10,510 - INFO - Downloading dataset: muwa-iene - CMS Medicare PSI-90 and component measures - six-digit estimate dataset
+2026-04-06 02:27:10,509 - INFO - Downloading dataset: x663-bwbj - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State
+2026-04-06 02:27:10,512 - INFO - Downloading dataset: ynj2-r877 - Complications and Deaths - Hospital
+2026-04-06 02:27:10,513 - INFO - Downloading dataset: qqw3-t4ie - Complications and Deaths - National
+2026-04-06 02:27:10,514 - INFO - Downloading dataset: bs2r-24vh - Complications and Deaths - State
+2026-04-06 02:27:10,516 - INFO - Downloading dataset: y9us-9xdf - Footnote Crosswalk
+2026-04-06 02:27:11,484 - INFO - Dataset 'qqw3-t4ie' transformed and saved to 'output_data/Hospitals/qqw3-t4ie.csv'
+2026-04-06 02:27:11,484 - INFO - Dataset 'axe7-s95e' transformed and saved to 'output_data/Hospitals/axe7-s95e.csv'
+2026-04-06 02:27:11,486 - INFO - Downloading dataset: xrgf-x36b - Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount
+2026-04-06 02:27:11,488 - INFO - Downloading dataset: 5gv4-jwyv - Table 1: FY2024 Net Change in Base Operating DRG Payment Amount
+2026-04-06 02:27:11,491 - INFO - Dataset 'x663-bwbj' transformed and saved to 'output_data/Hospitals/x663-bwbj.csv'
+2026-04-06 02:27:11,492 - INFO - Downloading dataset: u625-zae7 - Table 3: FY2024 Percent Change in Medicare Payments
+2026-04-06 02:27:11,496 - INFO - Dataset 'y9us-9xdf' transformed and saved to 'output_data/Hospitals/y9us-9xdf.csv'
+2026-04-06 02:27:11,497 - INFO - Downloading dataset: vtqa-m4zn - Table 4: FY2024 Value-Based Incentive Payment Amount
+2026-04-06 02:27:11,592 - INFO - Dataset 'wue8-3vwe' transformed and saved to 'output_data/Hospitals/wue8-3vwe.csv'
+2026-04-06 02:27:11,594 - INFO - Downloading dataset: dgck-syfz - Patient survey (HCAHPS) - Hospital
+2026-04-06 02:27:11,634 - INFO - Dataset 'tf3h-mrrs' transformed and saved to 'output_data/Hospitals/tf3h-mrrs.csv'
+2026-04-06 02:27:11,635 - INFO - Downloading dataset: 99ue-w85f - Patient survey (HCAHPS) - National
+2026-04-06 02:27:11,644 - INFO - Dataset 'tqkv-mgxq' transformed and saved to 'output_data/Hospitals/tqkv-mgxq.csv'
+2026-04-06 02:27:11,647 - INFO - Downloading dataset: 84jm-wiui - Patient survey (HCAHPS) - State
+2026-04-06 02:27:11,655 - INFO - Dataset 'bs2r-24vh' transformed and saved to 'output_data/Hospitals/bs2r-24vh.csv'
+2026-04-06 02:27:11,656 - INFO - Downloading dataset: 77hc-ibv8 - Healthcare Associated Infections - Hospital
+2026-04-06 02:27:11,747 - INFO - Dataset 'xrgf-x36b' transformed and saved to 'output_data/Hospitals/xrgf-x36b.csv'
+2026-04-06 02:27:11,750 - INFO - Downloading dataset: yd3s-jyhd - Healthcare Associated Infections - National
+2026-04-06 02:27:11,759 - INFO - Dataset '5gv4-jwyv' transformed and saved to 'output_data/Hospitals/5gv4-jwyv.csv'
+2026-04-06 02:27:11,760 - INFO - Downloading dataset: k2ze-bqvw - Healthcare Associated Infections - State
+2026-04-06 02:27:11,761 - INFO - Dataset 'u625-zae7' transformed and saved to 'output_data/Hospitals/u625-zae7.csv'
+2026-04-06 02:27:11,790 - INFO - Downloading dataset: yizn-abxn - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility
+2026-04-06 02:27:11,794 - INFO - Dataset 'vtqa-m4zn' transformed and saved to 'output_data/Hospitals/vtqa-m4zn.csv'
+2026-04-06 02:27:11,795 - INFO - Downloading dataset: s5pj-hua3 - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National
+2026-04-06 02:27:11,945 - INFO - Dataset '99ue-w85f' transformed and saved to 'output_data/Hospitals/99ue-w85f.csv'
+2026-04-06 02:27:11,947 - INFO - Downloading dataset: 6pfg-whmx - Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State
+2026-04-06 02:27:12,030 - INFO - Dataset '84jm-wiui' transformed and saved to 'output_data/Hospitals/84jm-wiui.csv'
+2026-04-06 02:27:12,040 - INFO - Downloading dataset: xubh-q36u - Hospital General Information
+2026-04-06 02:27:12,051 - INFO - Dataset 'yd3s-jyhd' transformed and saved to 'output_data/Hospitals/yd3s-jyhd.csv'
+2026-04-06 02:27:12,053 - INFO - Downloading dataset: z8ax-x9j1 - Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital
+2026-04-06 02:27:12,061 - INFO - Dataset 's5pj-hua3' transformed and saved to 'output_data/Hospitals/s5pj-hua3.csv'
+2026-04-06 02:27:12,072 - INFO - Downloading dataset: jfnd-nl7s - Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National
+2026-04-06 02:27:12,086 - INFO - Dataset 'muwa-iene' transformed and saved to 'output_data/Hospitals/muwa-iene.csv'
+2026-04-06 02:27:12,094 - INFO - Downloading dataset: yq43-i98g - Hospital-Acquired Condition (HAC) Reduction Program
+2026-04-06 02:27:12,128 - INFO - Dataset 'k2ze-bqvw' transformed and saved to 'output_data/Hospitals/k2ze-bqvw.csv'
+2026-04-06 02:27:12,130 - INFO - Downloading dataset: 5hk7-b79m - Medicare Spending Per Beneficiary - Hospital Additional Decimal Places
+2026-04-06 02:27:12,144 - INFO - Dataset '48nr-hqxx' transformed and saved to 'output_data/Hospitals/48nr-hqxx.csv'
+2026-04-06 02:27:12,146 - INFO - Downloading dataset: k653-4ka8 - Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital
+2026-04-06 02:27:12,205 - INFO - Dataset '6pfg-whmx' transformed and saved to 'output_data/Hospitals/6pfg-whmx.csv'
+2026-04-06 02:27:12,207 - INFO - Downloading dataset: iy27-wz37 - Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital
+2026-04-06 02:27:12,302 - INFO - Dataset 'z8ax-x9j1' transformed and saved to 'output_data/Hospitals/z8ax-x9j1.csv'
+2026-04-06 02:27:12,305 - INFO - Dataset '4jcv-atw7' transformed and saved to 'output_data/Hospitals/4jcv-atw7.csv'
+2026-04-06 02:27:12,306 - INFO - Downloading dataset: 9g7e-btyt - Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National
+2026-04-06 02:27:12,307 - INFO - Downloading dataset: qatj-nmws - Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State
+2026-04-06 02:27:12,313 - INFO - Dataset 'jfnd-nl7s' transformed and saved to 'output_data/Hospitals/jfnd-nl7s.csv'
+2026-04-06 02:27:12,315 - INFO - Downloading dataset: 9n3s-kdb3 - Hospital Readmissions Reduction Program
+2026-04-06 02:27:12,402 - INFO - Dataset 'k653-4ka8' transformed and saved to 'output_data/Hospitals/k653-4ka8.csv'
+2026-04-06 02:27:12,404 - INFO - Downloading dataset: pudb-wetr - Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores
+2026-04-06 02:27:12,484 - INFO - Dataset '5hk7-b79m' transformed and saved to 'output_data/Hospitals/5hk7-b79m.csv'
+2026-04-06 02:27:12,486 - INFO - Downloading dataset: su9h-3pvj - Hospital Value-Based Purchasing (HVBP) - Efficiency Scores
+2026-04-06 02:27:12,579 - INFO - Dataset 'iy27-wz37' transformed and saved to 'output_data/Hospitals/iy27-wz37.csv'
+2026-04-06 02:27:12,589 - INFO - Downloading dataset: avtz-f2ge - Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)
+2026-04-06 02:27:12,633 - INFO - Dataset '9g7e-btyt' transformed and saved to 'output_data/Hospitals/9g7e-btyt.csv'
+2026-04-06 02:27:12,641 - INFO - Downloading dataset: dgmq-aat3 - Hospital Value-Based Purchasing (HVBP) - Safety
+2026-04-06 02:27:12,706 - INFO - Dataset 'qatj-nmws' transformed and saved to 'output_data/Hospitals/qatj-nmws.csv'
+2026-04-06 02:27:12,712 - INFO - Downloading dataset: ypbt-wvdk - Hospital Value-Based Purchasing (HVBP) - Total Performance Score
+2026-04-06 02:27:12,936 - INFO - Dataset 'yq43-i98g' transformed and saved to 'output_data/Hospitals/yq43-i98g.csv'
+2026-04-06 02:27:12,961 - INFO - Downloading dataset: q9vs-r7wp - Inpatient Psychiatric Facility Quality Measure Data - by Facility
+2026-04-06 02:27:12,996 - INFO - Dataset 'su9h-3pvj' transformed and saved to 'output_data/Hospitals/su9h-3pvj.csv'
+2026-04-06 02:27:13,003 - INFO - Downloading dataset: s5xg-sys6 - Inpatient Psychiatric Facility Quality Measure Data - National
+2026-04-06 02:27:13,153 - INFO - Dataset 'xubh-q36u' transformed and saved to 'output_data/Hospitals/xubh-q36u.csv'
+2026-04-06 02:27:13,157 - INFO - Downloading dataset: dc76-gh7x - Inpatient Psychiatric Facility Quality Measure Data - by State
+2026-04-06 02:27:13,230 - INFO - Dataset 'ypbt-wvdk' transformed and saved to 'output_data/Hospitals/ypbt-wvdk.csv'
+2026-04-06 02:27:13,236 - INFO - Downloading dataset: 4j6d-yzce - Measure Dates
+2026-04-06 02:27:13,294 - INFO - Dataset 's5xg-sys6' transformed and saved to 'output_data/Hospitals/s5xg-sys6.csv'
+2026-04-06 02:27:13,299 - INFO - Downloading dataset: nrth-mfg3 - Medicare Hospital Spending by Claim
+2026-04-06 02:27:13,551 - INFO - Dataset 'pudb-wetr' transformed and saved to 'output_data/Hospitals/pudb-wetr.csv'
+2026-04-06 02:27:13,558 - INFO - Downloading dataset: rrqw-56er - Medicare Spending Per Beneficiary - Hospital
+2026-04-06 02:27:13,629 - INFO - Dataset '4j6d-yzce' transformed and saved to 'output_data/Hospitals/4j6d-yzce.csv'
+2026-04-06 02:27:13,649 - INFO - Downloading dataset: 3n5g-6b7f - Medicare Spending Per Beneficiary - National
+2026-04-06 02:27:13,712 - INFO - Dataset '9n3s-kdb3' transformed and saved to 'output_data/Hospitals/9n3s-kdb3.csv'
+2026-04-06 02:27:13,714 - INFO - Dataset 'dc76-gh7x' transformed and saved to 'output_data/Hospitals/dc76-gh7x.csv'
+2026-04-06 02:27:13,715 - INFO - Downloading dataset: rs6n-9qwg - Medicare Spending Per Beneficiary - State
+2026-04-06 02:27:13,724 - INFO - Downloading dataset: wkfw-kthe - Outpatient Imaging Efficiency - Hospital
+2026-04-06 02:27:13,966 - INFO - Dataset 'dgmq-aat3' transformed and saved to 'output_data/Hospitals/dgmq-aat3.csv'
+2026-04-06 02:27:13,976 - INFO - Downloading dataset: di9i-zzrc - Outpatient Imaging Efficiency - National
+2026-04-06 02:27:13,976 - INFO - Dataset 'avtz-f2ge' transformed and saved to 'output_data/Hospitals/avtz-f2ge.csv'
+2026-04-06 02:27:13,979 - INFO - Downloading dataset: if5v-4x48 - Outpatient Imaging Efficiency - State
+2026-04-06 02:27:14,015 - INFO - Dataset '3n5g-6b7f' transformed and saved to 'output_data/Hospitals/3n5g-6b7f.csv'
+2026-04-06 02:27:14,026 - INFO - Downloading dataset: yv7e-xc69 - Timely and Effective Care - Hospital
+2026-04-06 02:27:14,116 - INFO - Dataset 'rs6n-9qwg' transformed and saved to 'output_data/Hospitals/rs6n-9qwg.csv'
+2026-04-06 02:27:14,127 - INFO - Downloading dataset: isrn-hqyy - Timely and Effective Care - National
+2026-04-06 02:27:14,274 - INFO - Dataset 'di9i-zzrc' transformed and saved to 'output_data/Hospitals/di9i-zzrc.csv'
+2026-04-06 02:27:14,278 - INFO - Dataset 'rrqw-56er' transformed and saved to 'output_data/Hospitals/rrqw-56er.csv'
+2026-04-06 02:27:14,281 - INFO - Downloading dataset: apyc-v239 - Timely and Effective Care - State
+2026-04-06 02:27:14,283 - INFO - Downloading dataset: 632h-zaca - Unplanned Hospital Visits - Hospital
+2026-04-06 02:27:14,309 - INFO - Dataset 'if5v-4x48' transformed and saved to 'output_data/Hospitals/if5v-4x48.csv'
+2026-04-06 02:27:14,315 - INFO - Downloading dataset: cvcs-xecj - Unplanned Hospital Visits - National
+2026-04-06 02:27:14,446 - INFO - Dataset 'isrn-hqyy' transformed and saved to 'output_data/Hospitals/isrn-hqyy.csv'
+2026-04-06 02:27:14,456 - INFO - Downloading dataset: 4gkm-5ypv - Unplanned Hospital Visits - State
+2026-04-06 02:27:14,626 - INFO - Dataset 'ynj2-r877' transformed and saved to 'output_data/Hospitals/ynj2-r877.csv'
+2026-04-06 02:27:14,628 - INFO - Downloading dataset: 6qxe-iqz8 - Veterans Health Administration Behavioral Health Data
+2026-04-06 02:27:14,637 - INFO - Dataset 'q9vs-r7wp' transformed and saved to 'output_data/Hospitals/q9vs-r7wp.csv'
+2026-04-06 02:27:14,640 - INFO - Downloading dataset: ptds-r8im - Veterans Health Administration Timely and Effective Care Data
+2026-04-06 02:27:14,654 - INFO - Dataset 'apyc-v239' transformed and saved to 'output_data/Hospitals/apyc-v239.csv'
+2026-04-06 02:27:14,675 - INFO - Downloading dataset: uyx4-5s7f - Veterans Health Administration Provider Level Data
+2026-04-06 02:27:14,740 - INFO - Dataset 'cvcs-xecj' transformed and saved to 'output_data/Hospitals/cvcs-xecj.csv'
+2026-04-06 02:27:14,741 - INFO - Downloading dataset: bzsr-4my4 - Data Updates
+2026-04-06 02:27:14,750 - INFO - Dataset '4gkm-5ypv' transformed and saved to 'output_data/Hospitals/4gkm-5ypv.csv'
+2026-04-06 02:27:14,751 - INFO - Downloading dataset: nrdb-3fcy - Maternal Health - Hospital
+2026-04-06 02:27:15,061 - INFO - Dataset '6qxe-iqz8' transformed and saved to 'output_data/Hospitals/6qxe-iqz8.csv'
+2026-04-06 02:27:15,064 - INFO - Downloading dataset: mxtu-43qs - Patient-Reported Outcomes - Hospital
+2026-04-06 02:27:15,092 - INFO - Dataset 'ptds-r8im' transformed and saved to 'output_data/Hospitals/ptds-r8im.csv'
+2026-04-06 02:27:15,099 - INFO - Downloading dataset: qoeg-w7ck - Palliative Care - PPS-Exempt Cancer Hospital - Hospital
+2026-04-06 02:27:15,120 - INFO - Dataset 'uyx4-5s7f' transformed and saved to 'output_data/Hospitals/uyx4-5s7f.csv'
+2026-04-06 02:27:15,122 - INFO - Downloading dataset: qigt-w5cx - Palliative Care - PPS-Exempt Cancer Hospital - National
+2026-04-06 02:27:15,128 - INFO - Dataset 'bzsr-4my4' transformed and saved to 'output_data/Hospitals/bzsr-4my4.csv'
+2026-04-06 02:27:15,135 - INFO - Downloading dataset: f4ga-b9gx - Promoting Interoperability - Hospital
+2026-04-06 02:27:15,310 - INFO - Dataset 'wkfw-kthe' transformed and saved to 'output_data/Hospitals/wkfw-kthe.csv'
+2026-04-06 02:27:15,311 - INFO - Downloading dataset: hbf-map - Birthing Friendly Hospitals with Geocoded Addresses
+2026-04-06 02:27:15,389 - INFO - Dataset 'qoeg-w7ck' transformed and saved to 'output_data/Hospitals/qoeg-w7ck.csv'
+2026-04-06 02:27:15,391 - INFO - Downloading dataset: 97xg-v3wv - Rural Emergency Hospital Timely and Effective Care - Hospital
+2026-04-06 02:27:15,389 - INFO - Dataset 'qigt-w5cx' transformed and saved to 'output_data/Hospitals/qigt-w5cx.csv'
+2026-04-06 02:27:15,393 - INFO - Downloading dataset: d2k3-k3ac - Rural Emergency Hospital Timely and Effective Care - National
+2026-04-06 02:27:15,602 - INFO - Dataset 'mxtu-43qs' transformed and saved to 'output_data/Hospitals/mxtu-43qs.csv'
+2026-04-06 02:27:15,613 - INFO - Downloading dataset: 7peb-i4pi - Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital
+2026-04-06 02:27:15,692 - INFO - Dataset 'f4ga-b9gx' transformed and saved to 'output_data/Hospitals/f4ga-b9gx.csv'
+2026-04-06 02:27:15,703 - INFO - Downloading dataset: zt3q-3e1z - Rural Emergency Hospital Outpatient Imaging Efficiency - National
+2026-04-06 02:27:15,731 - INFO - Dataset 'd2k3-k3ac' transformed and saved to 'output_data/Hospitals/d2k3-k3ac.csv'
+2026-04-06 02:27:15,740 - INFO - Downloading dataset: zez1-ka2w - Rural Emergency Hospital Unplanned Hospital Visits - Hospital
+2026-04-06 02:27:15,784 - INFO - Dataset 'hbf-map' transformed and saved to 'output_data/Hospitals/hbf-map.csv'
+2026-04-06 02:27:15,790 - INFO - Dataset '97xg-v3wv' transformed and saved to 'output_data/Hospitals/97xg-v3wv.csv'
+2026-04-06 02:27:15,792 - INFO - Downloading dataset: uk3n-au7a - Rural Emergency Hospital Unplanned Hospital Visits - National
+2026-04-06 02:27:15,904 - INFO - Dataset '7peb-i4pi' transformed and saved to 'output_data/Hospitals/7peb-i4pi.csv'
+2026-04-06 02:27:15,995 - INFO - Dataset 'yizn-abxn' transformed and saved to 'output_data/Hospitals/yizn-abxn.csv'
+2026-04-06 02:27:15,996 - INFO - Dataset 'zt3q-3e1z' transformed and saved to 'output_data/Hospitals/zt3q-3e1z.csv'
+2026-04-06 02:27:16,009 - INFO - Dataset 'zez1-ka2w' transformed and saved to 'output_data/Hospitals/zez1-ka2w.csv'
+2026-04-06 02:27:16,073 - INFO - Dataset 'uk3n-au7a' transformed and saved to 'output_data/Hospitals/uk3n-au7a.csv'
+2026-04-06 02:27:16,214 - INFO - Dataset 'nrdb-3fcy' transformed and saved to 'output_data/Hospitals/nrdb-3fcy.csv'
+2026-04-06 02:27:16,618 - INFO - Dataset 'nrth-mfg3' transformed and saved to 'output_data/Hospitals/nrth-mfg3.csv'
+2026-04-06 02:27:17,480 - INFO - Dataset '77hc-ibv8' transformed and saved to 'output_data/Hospitals/77hc-ibv8.csv'
+2026-04-06 02:27:18,517 - INFO - Dataset '632h-zaca' transformed and saved to 'output_data/Hospitals/632h-zaca.csv'
+2026-04-06 02:27:19,220 - INFO - Dataset 'yv7e-xc69' transformed and saved to 'output_data/Hospitals/yv7e-xc69.csv'
+2026-04-06 02:27:21,930 - INFO - Dataset 'dgck-syfz' transformed and saved to 'output_data/Hospitals/dgck-syfz.csv'
+2026-04-06 02:27:21,954 - INFO - Previous run data updated and saved.
+2026-04-06 02:27:21,954 - INFO - --------PIPELINE PROCESS COMPLETED--------
+2026-04-06 02:27:27,483 - INFO - Fetching dataset metadata from CMS API...
+2026-04-06 02:27:27,483 - INFO - --------STARTING PIPELINE PROCESS--------
+2026-04-06 02:27:27,483 - INFO - Loading previous run data...
+2026-04-06 02:27:27,814 - INFO - Filtered datasets for theme 'Hospitals': 73 found.
+2026-04-06 02:27:27,814 - INFO - No update for dataset: 48nr-hqxx, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: 4jcv-atw7, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: wue8-3vwe, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: tf3h-mrrs, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: axe7-s95e, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: x663-bwbj, no download needed.
+2026-04-06 02:27:27,815 - INFO - No update for dataset: tqkv-mgxq, no download needed.
+2026-04-06 02:27:27,817 - INFO - No update for dataset: muwa-iene, no download needed.
+2026-04-06 02:27:27,817 - INFO - No update for dataset: ynj2-r877, no download needed.
+2026-04-06 02:27:27,818 - INFO - No update for dataset: qqw3-t4ie, no download needed.
+2026-04-06 02:27:27,819 - INFO - No update for dataset: bs2r-24vh, no download needed.
+2026-04-06 02:27:27,819 - INFO - No update for dataset: y9us-9xdf, no download needed.
+2026-04-06 02:27:27,819 - INFO - No update for dataset: xrgf-x36b, no download needed.
+2026-04-06 02:27:27,820 - INFO - No update for dataset: 5gv4-jwyv, no download needed.
+2026-04-06 02:27:27,820 - INFO - No update for dataset: u625-zae7, no download needed.
+2026-04-06 02:27:27,820 - INFO - No update for dataset: vtqa-m4zn, no download needed.
+2026-04-06 02:27:27,820 - INFO - No update for dataset: dgck-syfz, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: 99ue-w85f, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: 84jm-wiui, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: 77hc-ibv8, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: yd3s-jyhd, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: k2ze-bqvw, no download needed.
+2026-04-06 02:27:27,821 - INFO - No update for dataset: yizn-abxn, no download needed.
+2026-04-06 02:27:27,822 - INFO - No update for dataset: s5pj-hua3, no download needed.
+2026-04-06 02:27:27,822 - INFO - No update for dataset: 6pfg-whmx, no download needed.
+2026-04-06 02:27:27,822 - INFO - No update for dataset: xubh-q36u, no download needed.
+2026-04-06 02:27:27,822 - INFO - No update for dataset: z8ax-x9j1, no download needed.
+2026-04-06 02:27:27,822 - INFO - No update for dataset: jfnd-nl7s, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: yq43-i98g, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: 5hk7-b79m, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: k653-4ka8, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: iy27-wz37, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: 9g7e-btyt, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: qatj-nmws, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: 9n3s-kdb3, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: pudb-wetr, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: su9h-3pvj, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: avtz-f2ge, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: dgmq-aat3, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: ypbt-wvdk, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: q9vs-r7wp, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: s5xg-sys6, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: dc76-gh7x, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: 4j6d-yzce, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: nrth-mfg3, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: rrqw-56er, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: 3n5g-6b7f, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: rs6n-9qwg, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: wkfw-kthe, no download needed.
+2026-04-06 02:27:27,823 - INFO - No update for dataset: di9i-zzrc, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: if5v-4x48, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: yv7e-xc69, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: isrn-hqyy, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: apyc-v239, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: 632h-zaca, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: cvcs-xecj, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: 4gkm-5ypv, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: 6qxe-iqz8, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: ptds-r8im, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: uyx4-5s7f, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: bzsr-4my4, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: nrdb-3fcy, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: mxtu-43qs, no download needed.
+2026-04-06 02:27:27,824 - INFO - No update for dataset: qoeg-w7ck, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: qigt-w5cx, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: f4ga-b9gx, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: hbf-map, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: 97xg-v3wv, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: d2k3-k3ac, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: 7peb-i4pi, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: zt3q-3e1z, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: zez1-ka2w, no download needed.
+2026-04-06 02:27:27,825 - INFO - No update for dataset: uk3n-au7a, no download needed.
+2026-04-06 02:27:27,825 - INFO - Total new datasets to download: 0
+2026-04-06 02:27:27,826 - INFO - Previous run data updated and saved.
+2026-04-06 02:27:27,826 - INFO - --------PIPELINE PROCESS COMPLETED--------
